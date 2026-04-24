@@ -69,33 +69,6 @@ public:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreeMANITCSE8095&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeMANITCSE8095&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreeMANITCSE8095&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShreeMANITCSE8095&theme=darkhub&no-frame=true&margin-w=10&row=1" />
-
-</div>
-
----
-
 ## ⚔️ LeetCode Stats
 
 <div align="center">
