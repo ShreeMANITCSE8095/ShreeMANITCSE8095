@@ -32,7 +32,7 @@ public:
 
     vector<string> askMeAbout = {
         "C++", "Data Structures & Algorithms",
-        "React / Next.js", "REST APIs", "System Design"
+        "Competitive Programming", "Web Development"
     };
 
     string funFact = "CPP > Java";
