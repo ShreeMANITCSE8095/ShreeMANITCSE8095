@@ -21,21 +21,21 @@
 class ShreePandit {
 public:
     string name     = "Shree Pandit";
-    string role     = "Competitive Programmer | Full Stack Developer";
+    string role     = "Competitive Programmer | System Programmer";
     string college  = "MANIT Bhopal";
 
     vector<string> currently = {
         "Solving DSA Problems on LeetCode, CodeChef, Codeforces, GeeksForGeeks and AtCoder",
-        "Building Full-Stack Web Apps with React.js & Node.js",
-        "Exploring System Programming in C/C++"
+        "Building Full-Stack Web Applications using React.js & Node.js",
+        "Exploring System Programming in C++"
     };
 
     vector<string> askMeAbout = {
         "C++", "Data Structures & Algorithms",
-        "Competitive Programming", "Web Development"
+        "Competitive Programming", "System Programming", "Web Development"
     };
 
-    string funFact = "CPP > Java";
+    string funFact = "C++ > Java";
 };
 ```
 
