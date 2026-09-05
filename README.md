@@ -145,7 +145,7 @@ Full-stack academic resource management system for MANIT students.
 
 ---
 
-## `toolbox`
+## `Toolbox`
 
 ### Languages
 
@@ -235,7 +235,7 @@ Full-stack academic resource management system for MANIT students.
 
 ---
 
-## `connect`
+## `Connect`
 
 <div align="center">
 
