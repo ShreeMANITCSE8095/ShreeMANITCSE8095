@@ -26,7 +26,7 @@
 
 ---
 
-## `whoami`
+## `Who AM I`
 
 ```cpp
 class ShreePandit {
